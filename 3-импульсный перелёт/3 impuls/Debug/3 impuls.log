@@ -1,0 +1,28 @@
+﻿  3 impuls.cpp
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(273): warning C4101: lamda: неиспользованная локальная переменная
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(339): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(340): warning C4018: <: несоответствие типов со знаком и без знака
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(764): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(623): warning C4101: R: неиспользованная локальная переменная
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(788): warning C4101: T_L4: неиспользованная локальная переменная
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(709): warning C4101: e: неиспользованная локальная переменная
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(989): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(813): warning C4101: Vr: неиспользованная локальная переменная
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(813): warning C4101: R: неиспользованная локальная переменная
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(868): warning C4101: XL0: неиспользованная локальная переменная
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(813): warning C4101: Vn: неиспользованная локальная переменная
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(868): warning C4101: ZL0: неиспользованная локальная переменная
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(868): warning C4101: YL0: неиспользованная локальная переменная
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(1250): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(1042): warning C4101: R: неиспользованная локальная переменная
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(1132): warning C4101: sy: неиспользованная локальная переменная
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(1279): warning C4101: T_L4: неиспользованная локальная переменная
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(1132): warning C4101: sz: неиспользованная локальная переменная
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(1132): warning C4101: sx: неиспользованная локальная переменная
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(1375): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(1488): warning C4101: Mark: неиспользованная локальная переменная
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(1491): warning C4101: omeg1: неиспользованная локальная переменная
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(1491): warning C4101: u1: неиспользованная локальная переменная
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(1491): warning C4101: delV1: неиспользованная локальная переменная
+c:\учёба\3 impuls\3 impuls\3 impuls.cpp(1490): warning C4101: Gradient: неиспользованная локальная переменная
+  3 impuls.vcxproj -> C:\Учёба\3 impuls\Debug\3 impuls.exe

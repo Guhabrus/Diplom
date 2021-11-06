@@ -1,0 +1,15 @@
+﻿  Help.cpp
+c:\учёба\help\help\help.cpp(505): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\учёба\help\help\help.cpp(546): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\учёба\help\help\help.cpp(353): warning C4101: R: неиспользованная локальная переменная
+c:\учёба\help\help\help.cpp(616): warning C4101: Vy: неиспользованная локальная переменная
+c:\учёба\help\help\help.cpp(615): warning C4101: omeg1: неиспользованная локальная переменная
+c:\учёба\help\help\help.cpp(615): warning C4101: u1: неиспользованная локальная переменная
+c:\учёба\help\help\help.cpp(615): warning C4101: delV1: неиспользованная локальная переменная
+c:\учёба\help\help\help.cpp(616): warning C4101: Z: неиспользованная локальная переменная
+c:\учёба\help\help\help.cpp(616): warning C4101: Y: неиспользованная локальная переменная
+c:\учёба\help\help\help.cpp(616): warning C4101: Vx: неиспользованная локальная переменная
+c:\учёба\help\help\help.cpp(614): warning C4101: Gradient: неиспользованная локальная переменная
+c:\учёба\help\help\help.cpp(616): warning C4101: Vz: неиспользованная локальная переменная
+c:\учёба\help\help\help.cpp(616): warning C4101: X: неиспользованная локальная переменная
+  Help.vcxproj -> C:\Учёба\Help\Debug\Help.exe
